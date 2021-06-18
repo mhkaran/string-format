@@ -1,0 +1,29 @@
+{
+    "default":{
+        "width":80,
+        "alignment":"right",
+        "spacing":"\n",
+        "bold":["Choco", "Chuck", "Norris"],
+        "italic":["food"],
+        "replace":["Choco,CHOCO","sustainable,SUSTAINABLE"],
+        "chuck_Norris":["industry", "change"]
+    },
+    "suppiler-1":{
+        "width":80,
+        "alignment":"center",
+        "spacing":"\n\n",
+        "bold":["choco", "Chuck", "Norris"],
+        "italic":["food"],
+        "replace":["Choco,CHOCO","sustainable,SUSTAINABLE"],
+        "chuck_Norris":["industry", "change"]
+    },
+    "restaurants-1":{
+        "width":80,
+        "alignment":"left",
+        "spacing":"\n",
+        "bold":["Choco", "Chuck", "Norris"],
+        "italic":["food"],
+        "replace":["Choco,CHOCO","sustainable,SUSTAINABLE"],
+        "chuck_Norris":["industry", "change"]
+    }
+}

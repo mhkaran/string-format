@@ -1,0 +1,17 @@
+{
+    "mandatory":{
+        "input":"input string is mandatory!",
+        "alignment": "alignment in formation rule is mandatory!",
+        "spacing":"spacing in formation rule is mandatory!"
+    },
+    "type":{
+        "bold":"bold in formation rule should be array!",
+        "chuck_Norris":"chuck_Norris in formation rule should be array!",
+        "italic":"italic in formation rule should be array!",
+        "replace":"replace in formation rule should be array!",
+        "width":"width in formation rule should be numeric!"
+    },
+    "wrong_value":{
+        "alignment":"alignment value is wrong!"
+    }
+}

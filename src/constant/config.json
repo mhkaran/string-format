@@ -1,0 +1,13 @@
+{
+    "port":8000,
+    "default":"default",
+    "chuck_norris_url":"https://api.chucknorris.io/jokes/random",
+    "chuck_norris_category_food":"food",
+    "chuck_norris_service_Timeout":10000,
+    "new_line":"\n",
+    "allow_word_Character":"\\.|\\,|\\!\\||\\?",
+    "empty":"",
+    "server_error":"unexpected internal server error, try after some time!",
+    "blank_seprated":" ",
+    "comma_seprated":","
+}
